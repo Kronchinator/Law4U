@@ -90,7 +90,6 @@ High-fidelity mockups built in Adobe XD covering the full user experience of the
 ---
 
 ## 🔐 Environment Variables
-
 | Variable | Description |
 |---|---|
 | `TELEGRAM_BOT_TOKEN` | Token from Telegram's BotFather |
@@ -101,7 +100,6 @@ A `.env.example` template is included in the repository. Copy it to `.env` and f
 ---
 
 ## 🛠️ Tech Stack
-
 | Layer | Technology |
 |---|---|
 | Chatbot | Python, `python-telegram-bot` |
@@ -112,7 +110,6 @@ A `.env.example` template is included in the repository. Copy it to `.env` and f
 ---
 
 ## 📋 Bot Commands
-
 | Command | Description |
 |---|---|
 | `/start` | Introduction and onboarding message |
@@ -121,7 +118,6 @@ A `.env.example` template is included in the repository. Copy it to `.env` and f
 ---
 
 ## 🗺️ Roadmap
-
 - [ ] Integrate chatbot AI into the Android app natively
 - [ ] Add support for case status lookup via eLitigation
 - [ ] Push notifications for court date reminders
@@ -131,11 +127,9 @@ A `.env.example` template is included in the repository. Copy it to `.env` and f
 ---
 
 ## ⚠️ Disclaimer
-
 LegalCodebreaker is intended for **informational purposes only**. The information provided does not constitute legal advice and should not be relied upon as such. For any legal matter, please consult a qualified lawyer licensed in Singapore. You may find one through the [Law Society of Singapore](https://www.lawsociety.org.sg).
 
 ---
 
 ## 📄 License
-
 This project is licensed under the MIT License. See `LICENSE` for details.

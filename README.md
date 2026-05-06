@@ -12,11 +12,9 @@ A mobile-first application that helps laypersons understand Singapore's legal sy
 LegalCodebreaker/
 ├── Chatbot.py          # Telegram chatbot (Python)
 ├── requirements.txt    # Python dependencies
-├── .env.example        # Environment variable template
-├── App/                # Kotlin-based Android application
-│   └── App.zip
-└── Design/
-    └── Hifi.xd         # Adobe XD high-fidelity mockups
+├── .env                # Environment variable template
+├── App.zip             # Kotlin-based Android application
+└── Hifi.xd             # Adobe XD high-fidelity mockups
 ```
 
 ---

@@ -93,7 +93,7 @@ High-fidelity mockups built in Adobe XD covering the full user experience of the
 | `TELEGRAM_BOT_TOKEN` | Token from Telegram's BotFather |
 | `ANTHROPIC_API_KEY` | API key from [console.anthropic.com](https://console.anthropic.com) |
 
-A `.env.example` template is included in the repository. Copy it to `.env` and fill in your values — never commit your actual `.env` file.
+An `.env` template is included in the repository. Fill in your own values — never commit your actual `.env` file.
 
 ---
 

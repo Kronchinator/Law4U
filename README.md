@@ -1,15 +1,16 @@
-# ⚖️ LegalCodebreaker
+# ⚖️ Law4u
 
 A mobile-first application that helps laypersons understand Singapore's legal system and navigate it with confidence — from looking up statutes and penal codes to tracking upcoming court dates.
+1st Runner Up in SMU LIT Hackathon 2023
 
-> ⚠️ LegalCodebreaker provides **legal information**, not legal advice. Always consult a qualified Singapore lawyer for matters requiring professional legal counsel.
+> ⚠️ Law4u provides **legal information**, not legal advice. Always consult a qualified Singapore lawyer for matters requiring professional legal counsel.
 
 ---
 
 ## 📦 Project Structure
 
 ```
-LegalCodebreaker/
+Law4u/
 ├── Chatbot.py          # Telegram chatbot (Python)
 ├── requirements.txt    # Python dependencies
 ├── .env                # Environment variable template
@@ -63,8 +64,8 @@ High-fidelity mockups built in Adobe XD covering the full user experience of the
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/legalcodebreaker.git
-   cd legalcodebreaker
+   git clone https://github.com/your-username/Law4U.git
+   cd Law4U
    ```
 
 2. **Install dependencies**
@@ -125,7 +126,7 @@ An `.env` template is included in the repository. Fill in your own values — ne
 ---
 
 ## ⚠️ Disclaimer
-LegalCodebreaker is intended for **informational purposes only**. The information provided does not constitute legal advice and should not be relied upon as such. For any legal matter, please consult a qualified lawyer licensed in Singapore. You may find one through the [Law Society of Singapore](https://www.lawsociety.org.sg).
+Law4U is intended for **informational purposes only**. The information provided does not constitute legal advice and should not be relied upon as such. For any legal matter, please consult a qualified lawyer licensed in Singapore. You may find one through the [Law Society of Singapore](https://www.lawsociety.org.sg).
 
 ---
 

@@ -1,7 +1,8 @@
 # ⚖️ Law4u
 
 A mobile-first application that helps laypersons understand Singapore's legal system and navigate it with confidence — from looking up statutes and penal codes to tracking upcoming court dates.
-1st Runner Up in SMU LIT Hackathon 2023
+
+⭐ 1st Runner Up in SMU LIT Hackathon 2023
 
 > ⚠️ Law4u provides **legal information**, not legal advice. Always consult a qualified Singapore lawyer for matters requiring professional legal counsel.
 
